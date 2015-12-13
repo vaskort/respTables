@@ -14,7 +14,7 @@ With a simple JS function table headers are moved in td's :before and shown appr
 ![responsive-tables edit table](/gif/addingTables.gif?raw=true)
 
 3. Your new table is ready!
-![responsive-tables edit table](/gif/addingTables2.gif?raw=true)
+![responsive-tables edit table](/gif/respTable2.gif?raw=true)
 
 
 
