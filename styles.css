@@ -1,0 +1,12 @@
+/*General Styling*/
+.tableWrapper {float: left;width: 100%;}
+.tableWrapper table {width: 100%;}
+.tableWrapper table td:before {font-weight: bold;}
+.tableWrapper table th {border-bottom: 1px solid black;padding:5px;}
+.tableWrapper table td {padding:5px;text-align: center;}
+@media all and (max-width: 768px) {
+	.tableWrapper table th {display: none;}
+	.tableWrapper table td {width: 50%;padding-left: 50%;}
+	.tableWrapper table td, .tableWrapper table tr {display: block;}
+	.tableWrapper table td:before {content: attr(data-before);border-right: 1px solid black;width: 50%;position: absolute;left:0;}
+}
