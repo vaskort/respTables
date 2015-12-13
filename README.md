@@ -1,6 +1,6 @@
 # responsive-tables
 
-**Simple responsive table that can be used as a head start for your project.**
+**Simple customizable responsive table that can be used as a head start for your project.**
 
 With a simple JS function table headers are moved in td's :before and shown appropriately under 768px 
 
@@ -16,6 +16,6 @@ With a simple JS function table headers are moved in td's :before and shown appr
 3. Your new table is ready!
 ![responsive-tables edit table](/gif/respTable2.gif?raw=true)
 
-
+4. Edit styles.css to add colors and media queries
 
 
