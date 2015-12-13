@@ -1,2 +1,2 @@
 # responsive-tables
-Responsive tables 
+Responsive tables using :before, :after with JS
