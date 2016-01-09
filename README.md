@@ -63,7 +63,7 @@ Option | Type | Default | Description
 ------ | ---- | ------- | -----------
 heading | String | 'th' | Class or element where you will put your headings
 
-#### Init with custom element example
+##### Init with custom element example
 ```
 $(document).ready(function(){
     $('.tableWrapper').respTables({
