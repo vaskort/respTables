@@ -11,9 +11,11 @@ _A jQuery plugin that helps make your table responsive_
 
   ```<link rel="stylesheet" type="text/css" href="styles.css">```
 
-2. Include jQuery
+2. Include jQuery and the plugin
 
   ```<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>```
+
+  ```<script src="respTables.js"></script>```
 
 3. Prepare your table markup with a wrapper element that has the class ```tableWrapper```. Just be sure the heading tags are inside ```th``` or override the default option with your custom class (See the Settings at the end how to override the default).
 
