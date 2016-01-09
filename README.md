@@ -26,44 +26,27 @@ _A jQuery plugin that helps make your table responsive_
     <table>
       <thead>
         <tr>
-          <th>
-            Heading 1
-          </th>
-          <th>
-            Heading 2
-          </th>
-          <th>
-            Heading 3
-          </th>
+          <th> Heading 1 </th>
+          <th> Heading 2 </th>
+          <th> Heading 3 </th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>
-            11
-          </td>
-          <td>
-            12
-          </td>
-          <td>
-            13
-          </td>
+          <td> 11 </td>
+          <td> 12 </td>
+          <td> 13 </td>
         </tr>
         <tr>
-          <td>
-            21
-          </td>
-          <td>
-            22
-          </td>
-          <td>
-            23
-          </td>
+          <td> 21 </td>
+          <td> 22 </td>
+          <td> 23 </td>
         </tr>
       </tbody>
     </table>
   </div>
   ```
+  You can use as many rows you want:
 
   ![responsive-tables edit table](/gif/addingTables.gif?raw=true)
 
