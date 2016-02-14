@@ -1,3 +1,19 @@
+
+/*
+                         _____         _      _
+ _ __   ___  ___  _ __  /__   \  __ _ | |__  | |  ___  ___
+| '__| / _ \/ __|| '_ \   / /\/ / _` || '_ \ | | / _ \/ __|
+| |   |  __/\__ \| |_) | / /   | (_| || |_) || ||  __/\__ \
+|_|    \___||___/| .__/  \/     \__,_||_.__/ |_| \___||___/
+                 |_|
+
+            Author: Vasilis Kortsimelidis
+        Repository: https://github.com/vaskort/respTables
+Issues/Suggestions: https://github.com/vaskort/respTables/issues
+
+*/
+
+
 (function($){
   $.fn.respTables = function(options) {
     var settings = $.extend({
