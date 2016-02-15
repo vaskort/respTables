@@ -11,6 +11,8 @@
         Repository: https://github.com/vaskort/respTables
 Issues/Suggestions: https://github.com/vaskort/respTables/issues
 
+ Licensed under MIT
+
 */
 
 
